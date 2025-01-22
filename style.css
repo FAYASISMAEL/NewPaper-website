@@ -231,7 +231,7 @@ nav{
 
 /* media querries */
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:590px) {
 body{
     align-items: flex-start;
 }
